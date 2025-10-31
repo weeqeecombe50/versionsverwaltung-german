@@ -1,0 +1,12 @@
+{
+  "name": "versionsverwaltung",
+  "version": "1.0.0",
+  "description": "Ein Tool zur Verwaltung von Projektversionen.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ihr Name",
+  "license": "MIT",
+  "dependencies": {}
+}
